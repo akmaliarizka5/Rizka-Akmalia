@@ -4,10 +4,6 @@
 #### Data Engineer | MCS Student
 #### *Designing scalable data pipelines, ETL workflows, and data engineering.*
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Github](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://github.com/akmaliarizka5)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rizka-akmalia)
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
