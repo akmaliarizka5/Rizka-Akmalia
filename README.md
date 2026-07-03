@@ -1,8 +1,8 @@
 <div>
 
 # Rizka Akmalia
-## Data Engineer | MCS Student
-*Designing scalable data pipelines, ETL workflows, and data engineering.*
+### Data Engineer | MCS Student
+### *Designing scalable data pipelines, ETL workflows, and data engineering.*
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Github](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://github.com/akmaliarizka5)
@@ -27,9 +27,6 @@
 ## 📊 GitHub Stats
 <div>
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=akmaliarizka5&theme=dark&show_icons=true)
-</div>
-
-<div>
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=akmaliarizka5&layout=compact&theme=dark)
 </div>
 
