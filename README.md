@@ -34,12 +34,11 @@
 
 
 ## 📊 GitHub Stats
-<div>
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=akmaliarizka5&show_icons=true&theme=tokyonight)
-</div>
-<div>
+
+## 📊 Top Languages
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=akmaliarizka5&layout=compact&theme=tokyonight)
-</div>
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📫 **Let’s connect:** [LinkedIn](www.linkedin.com/in/rizka-akmalia)
