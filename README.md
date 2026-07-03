@@ -1,13 +1,17 @@
-### Data Engineer | MCS Student
+<div align="center">
+
+# `< Rizka Akmalia />`
+## Data Engineer | MCS Student
 *Designing scalable data pipelines, ETL workflows, and data engineering.*
+
+[![Github](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://github.com/akmaliarizka5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rizka-akmalia)
 
 ## 🚀 Featured Projects
 
 | Project | Stack | Focus |
 | :--- | :--- | :--- |
 | [Order Management Data Warehouse](https://github.com/akmaliarizka5/retail_dbt_project) | PostgreSQL, dbt, Airflow | ETL, Data Warehouse, BI |
-
-*Explore my [Portfolio Repository](https://github.com/akmaliarizka5) for full breakdowns and case studies.*
 
 ---
 
@@ -17,7 +21,15 @@
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
-
+## 📊 GitHub Stats
+<div align="center">
+ 
+([![github-stats](https://github-stats-extended.vercel.app/api?username=akmaliarizka5)](https://github.com/stats-organization/github-stats-extended))
+---
+<div align="center">
 ---
 
+
 📫 **Let’s connect:** [LinkedIn](www.linkedin.com/in/rizka-akmalia)
+
+</div>
