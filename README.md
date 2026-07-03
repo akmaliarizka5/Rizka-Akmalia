@@ -1,6 +1,6 @@
 <div align="center">
 
-# `< Rizka Akmalia />`
+# Rizka Akmalia
 ## Data Engineer | MCS Student
 *Designing scalable data pipelines, ETL workflows, and data engineering.*
 
@@ -24,7 +24,9 @@
 ## 📊 GitHub Stats
 <div align="center">
  
-([![github-stats](https://github-stats-extended.vercel.app/api?username=akmaliarizka5)](https://github.com/stats-organization/github-stats-extended))
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=akmaliarizka5&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=akmaliarizka5&layout=compact&theme=tokyonight)
+
 ---
 <div align="center">
 ---
